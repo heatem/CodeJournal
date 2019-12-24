@@ -1,0 +1,2 @@
+- Treehouse: Intermediate Swift: Weak references & Understanding Access Levels. API design guidelines: Why do we need guidelines? & Naming Types.
+- 100 Days of Swift: Day 10
