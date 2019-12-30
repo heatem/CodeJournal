@@ -1,5 +1,9 @@
+12/29/2019
+- 100 Days of Swift: Day 15
+- Treehouse: Associated Types, Constraints with Where Clauses, Constraining Associated Types
+
 12/28/2019
-- 100 Days of Swift: 
+- 100 Days of Swift: Day 14
 - Treehouse: Linked Lists, Linked Lists Operations, Creating a Generic Type
 
 12/27/2019
