@@ -1,3 +1,11 @@
+12/31/2019
+- 100 Days of Swift: Day 16 (finished)
+- Treehouse: Functions as Data, Functions as Parameters, Extending the Int Type, Returning Functions
+
+12/30/2019
+- 100 Days of Swift: Day 16 (partial)
+- Treehouse: Generics and Associated Types, Extending Generic Types (video and exercise)
+
 12/29/2019
 - 100 Days of Swift: Day 15
 - Treehouse: Associated Types, Constraints with Where Clauses, Constraining Associated Types
