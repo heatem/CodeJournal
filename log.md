@@ -1,3 +1,10 @@
+1/2/2020
+- Treehouse: Higher Order Functions objectives, Capturing Variables, Review
+- 100 Days of Swift: Day 18, video 1 from Day 19
+
+1/1/2020
+- 100 Days of Swift: Day 17
+
 12/31/2019
 - 100 Days of Swift: Day 16 (finished)
 - Treehouse: Functions as Data, Functions as Parameters, Extending the Int Type, Returning Functions
