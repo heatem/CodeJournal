@@ -1,3 +1,13 @@
+1/5/2020
+- 100 Days of Swift: Day 20 & 21
+
+1/4/2020
+- Treehouse: Closure Expression Syntax, Closure Expression Shorthand, Map, Flat Map
+
+1/3/2020
+- 100 Days of Swift: last 2 videos from Day 19
+- Treehouse: A Quick Recap
+
 1/2/2020
 - Treehouse: Higher Order Functions objectives, Capturing Variables, Review
 - 100 Days of Swift: Day 18, video 1 from Day 19
