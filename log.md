@@ -1,3 +1,30 @@
+1/12/2020
+- 100 Days of Swift: 
+- Treehouse:
+
+1/11/2020
+- 100 Days of Swift: Finished Day 23 project
+- Treehouse: resumed intermediate iOS track: Racing Horses
+
+1/10/2020
+- 100 Days of Swift: Day 23 - continued project
+
+1/9/2020
+- 100 Days of Swift: Day 23 - continued project
+- Treehouse: Escaping, Weak and Unowned. COMPLETED INTERMEDIATE SWIFT TRACK! Reviewed some videos
+
+1/8/2020
+- 100 Days of Swift: Day 23 - continued project
+- Treehouse: Throwing from Inside a Closure, Rethrowing an Error
+
+1/7/2020
+- 100 Days of Swift: Day 23 - started project
+- Treehouse: Reduce (video and objective)
+
+1/6/2020
+- 100 Days of Swift: Day 22
+- Treehouse: Filter, Reduce (half of video)
+
 1/5/2020
 - 100 Days of Swift: Day 20 & 21
 
