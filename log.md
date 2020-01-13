@@ -1,6 +1,6 @@
 1/12/2020
 - 100 Days of Swift: Day 24
-- Treehouse:
+- Treehouse: Implementing A Delegate, Acting As A Delegate
 
 1/11/2020
 - 100 Days of Swift: Finished Day 23 project
