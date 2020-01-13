@@ -1,5 +1,5 @@
 1/12/2020
-- 100 Days of Swift: 
+- 100 Days of Swift: Day 24
 - Treehouse:
 
 1/11/2020
