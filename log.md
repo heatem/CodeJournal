@@ -1,3 +1,26 @@
+1/18/2020
+- 100 Days of SwiftUI: Day 
+- Treehouse:
+
+1/17/2020
+- 100 Days of SwiftUI: Day 
+- Treehouse:
+
+1/16/2020
+- 100 Days of SwiftUI: Day 
+- Treehouse:
+
+1/15/2020
+- 100 Days of SwiftUI: Day 17 & 18
+
+1/14/2020
+- 100 Days of SwiftUI: Day 16
+- Treehouse: Introduction (for Build an Interactive Story App with Swift), Navigation Controllers, Root View Controllers
+
+1/13/2020
+- 100 Days of Swift: Day 25 (started)
+- Treehouse: CLLocationManagerDelegate, UITextFieldDelegate
+
 1/12/2020
 - 100 Days of Swift: Day 24
 - Treehouse: Implementing A Delegate, Acting As A Delegate
