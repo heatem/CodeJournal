@@ -1,14 +1,17 @@
+1/20/2020
+
+
+1/19/2020
+- Rest day
+
 1/18/2020
-- 100 Days of SwiftUI: Day 
-- Treehouse:
+- 100 Days of SwiftUI: Day 19 - SwiftUI preview never worked for this project. Deleted, restarted, and finished.
 
 1/17/2020
-- 100 Days of SwiftUI: Day 
-- Treehouse:
+- 100 Days of SwiftUI: Day 19 continued briefly
 
 1/16/2020
-- 100 Days of SwiftUI: Day 
-- Treehouse:
+- 100 Days of SwiftUI: Day 19 - project started
 
 1/15/2020
 - 100 Days of SwiftUI: Day 17 & 18
