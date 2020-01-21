@@ -5,7 +5,7 @@
 - 100 Days of SwiftUI: Day 
 
 1/20/2020
-- 100 Days of SwiftUI: Day 20 & 21
+- 100 Days of SwiftUI: Day 20 & 21 & 22
 
 1/19/2020
 - Rest day
