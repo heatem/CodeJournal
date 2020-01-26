@@ -1,5 +1,18 @@
-1/22/2020
+1/26/2020
 - 100 Days of SwiftUI: Day 
+
+1/25/2020
+- 100 Days of SwiftUI: Day 25 project started, Day 26
+Eyes still feel strained
+
+1/24/2020
+- Rest day... eyes felt strained
+
+1/23/2020
+- Worked on non-swift programming for work :(
+
+1/22/2020
+- Worked on non-swift programming for work :(
 
 1/21/2020
 - 100 Days of SwiftUI: Day 23 & 24
