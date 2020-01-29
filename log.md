@@ -1,5 +1,20 @@
+1/31/2020
+- 100 Days of SwiftUI:
+
+1/30/2020
+- 100 Days of SwiftUI:
+
+1/29/2020
+- 100 Days of SwiftUI:
+
+1/28/2020
+- 100 Days of SwiftUI: Day 27 & 28
+
+1/27/2020
+- Prioritized work :( but listened to Fireside Swift episodes
+
 1/26/2020
-- 100 Days of SwiftUI: Day 
+- 100 Days of SwiftUI: Day 25 project finished
 
 1/25/2020
 - 100 Days of SwiftUI: Day 25 project started, Day 26
