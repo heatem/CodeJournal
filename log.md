@@ -8,7 +8,7 @@
 - 100 Days of SwiftUI:
 
 1/28/2020
-- 100 Days of SwiftUI: Day 27 & 28
+- 100 Days of SwiftUI: Day 27 & 28 & 29
 
 1/27/2020
 - Prioritized work :( but listened to Fireside Swift episodes
