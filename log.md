@@ -5,7 +5,7 @@
 - 100 Days of SwiftUI:
 
 1/29/2020
-- 100 Days of SwiftUI:
+- 100 Days of SwiftUI: Day 30
 
 1/28/2020
 - 100 Days of SwiftUI: Day 27 & 28 & 29
