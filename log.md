@@ -1,5 +1,5 @@
 2/18/2020
-- 100 Days of SwiftUI: 
+- 100 Days of SwiftUI: Continued Day 34 and 35 briefly
 
 2/17/2020
 - No code :(
