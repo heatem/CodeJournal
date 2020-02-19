@@ -1,8 +1,63 @@
+2/18/2020
+- 100 Days of SwiftUI: 
+
+2/17/2020
+- No code :(
+
+2/16/2020
+- 100 Days of SwiftUI: Started Day 35
+- Read documentation and revisited resources on animation
+
+2/15/2020
+- 100 Days of SwiftUI: Continued Day 34
+
+2/14/2020
+- No code :(
+
+2/13/2020
+- Treehouse: Build an Interactive Story App: Designing the Main Screen
+
+2/12/2020
+- 100 Days of SwiftUI: Continued Day 34
+
+2/11/2020
+- No code :(
+
+2/10/2020
+- 100 Days of SwiftUI: Continued Day 34
+
+2/9/2020
+- 100 Days of SwiftUI: Started Day 34
+
+2/8/2020
+- No code :(
+
+2/7/2020
+- No Swift code :(
+
+2/6/2020
+- No code :(
+
+2/5/2020 (should be at day 38 assuming 1 day per day)
+- No Swift code :( after work, long drive)
+
+2/4/2020
+- (Prioritized other work)
+
+2/3/2020
+Prioritized work :(, listened to some Swift podcast
+
+2/2/2020
+- 100 Days of SwiftUI: Day 33
+
+2/1/2020
+- 100 Days of SwiftUI: Day 32, started 33
+
 1/31/2020
-- 100 Days of SwiftUI:
+- Rest day (I think...)
 
 1/30/2020
-- 100 Days of SwiftUI:
+- 100 Days of SwiftUI: Day 31
 
 1/29/2020
 - 100 Days of SwiftUI: Day 30
