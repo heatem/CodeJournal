@@ -1,3 +1,12 @@
+2/21/2020
+- 100 Days of SwiftUI: Continued Day 35
+
+2/20/20
+- No code
+
+2/19/2020
+- No code?
+
 2/18/2020
 - 100 Days of SwiftUI: Continued Day 34 and 35 briefly
 
