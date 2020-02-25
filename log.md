@@ -1,3 +1,12 @@
+2/24/2020
+- 
+
+2/23/2020
+- 100 Days of SwiftUI: Worked on Day 35
+
+2/22/2020
+- 100 Days of SwiftUI: Worked on Day 35
+
 2/21/2020
 - 100 Days of SwiftUI: Continued Day 35
 
