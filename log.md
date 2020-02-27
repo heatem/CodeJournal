@@ -1,5 +1,11 @@
+2/26/2020
+- 100 Days of SwiftUI: Started Day 37
+
+2/25/2020
+- No Swift
+
 2/24/2020
-- 
+- 100 Days of SwiftUI: Worked on Day 34 a little bit
 
 2/23/2020
 - 100 Days of SwiftUI: Worked on Day 35
