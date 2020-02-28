@@ -1,5 +1,5 @@
 2/27/2020
-- 100 Days of SwiftUI: Finished Day 36, started Day 27 (resume at: Working with Identifiable items in SwiftUI)
+- 100 Days of SwiftUI: Finished Day 36, Day 37
 
 2/26/2020
 - 100 Days of SwiftUI: Started Day 36
