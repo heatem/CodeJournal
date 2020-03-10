@@ -1,8 +1,35 @@
+3/9/2020
+- started dive project
+
+3/8/2020
+- No swift
+
+3/7/2020
+- No swift
+
+3/6/2020
+- No swift
+
+3/5/2020
+- Read some RxSwift
+
+3/4/2020
+- Can't remember :(
+
+3/3/2020
+- No swift
+
+3/2/2020
+- No swift
+
+3/1/2020
+- 100 Days of SwiftUI: Revisited animations
+
 2/29/2020
 - 100 Days of SwiftUI: Started Day 38
 
 2/28/2020
-- 
+- No code?
 
 2/27/2020
 - 100 Days of SwiftUI: Finished Day 36, Day 37
