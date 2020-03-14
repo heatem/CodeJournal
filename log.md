@@ -1,3 +1,18 @@
+3/14/2020
+- 100 Days of SwiftUI: 
+
+3/13/2020
+- 100 Days of SwiftUI: Worked on animations again
+
+3/12/2020
+- Treehouse: Navigating Through An Adventure
+
+3/11/2020
+- No Swift
+
+3/10/2020
+- I don't remember :(
+
 3/9/2020
 - started dive project
 
