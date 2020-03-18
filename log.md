@@ -1,5 +1,22 @@
+Need to finish:
+- challenge day 34 (when correct button is tapped, the other 2 should fade to 25%. apply an animation for when wrong button is tapped)
+- Day 35 (created project but still need to do almost all of the work)
+- Finish day 38: Add some validation to the Save button in AddView. If you enter “fish” or another thing that can’t be converted to an integer, show an alert telling users what the problem is.
+
+3/18/2020
+- 100 Days of SwiftUI:
+
+3/17/2020
+- 100 Days of SwiftUI: Did first 2 challenge items for Day 38
+
+3/16/2020
+- app planning
+
+3/15/2020
+- Don't remember
+
 3/14/2020
-- 100 Days of SwiftUI: 
+- 100 Days of SwiftUI: Guess the flag: correct button spins when tapped
 
 3/13/2020
 - 100 Days of SwiftUI: Worked on animations again
