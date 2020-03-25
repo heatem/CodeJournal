@@ -3,8 +3,30 @@ Need to finish:
 - Day 35 (created project but still need to do almost all of the work)
 - Finish day 38: Add some validation to the Save button in AddView. If you enter “fish” or another thing that can’t be converted to an integer, show an alert telling users what the problem is.
 
+3/25/2020
+- Leetcode
+- Restarted Algorithms course on Khan Academy
+
+3/24/2020
+- ?
+
+3/23/2020
+- ?
+
+3/22/2020
+- Leet code challenge started (around this day, not sure when, but before 3/24)
+
+3/21/2020
+- no swift
+
+3/20/2020
+- Leetcode challenge (but on paper before bed)
+
+3/19/2020
+- don't remember
+
 3/18/2020
-- 100 Days of SwiftUI:
+- don't remember
 
 3/17/2020
 - 100 Days of SwiftUI: Did first 2 challenge items for Day 38
