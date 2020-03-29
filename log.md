@@ -3,6 +3,18 @@ Need to finish:
 - Day 35 (created project but still need to do almost all of the work)
 - Finish day 38: Add some validation to the Save button in AddView. If you enter “fish” or another thing that can’t be converted to an integer, show an alert telling users what the problem is.
 
+3/29/2020
+- Binary search in Swift
+
+3/28/2020
+- Khan Academy: Binary search (javascript)
+
+3/27/2020
+- Khan Academy algorithms course
+
+3/26/2020
+- 
+
 3/25/2020
 - Leetcode
 - Restarted Algorithms course on Khan Academy
