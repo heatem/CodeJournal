@@ -3,6 +3,9 @@ Need to finish:
 - Day 35 (created project but still need to do almost all of the work)
 - Finish day 38: Add some validation to the Save button in AddView. If you enter “fish” or another thing that can’t be converted to an integer, show an alert telling users what the problem is.
 
+5/25/2020
+- SwiftUI tutorials from developer.apple.com: Reviewed Creating and Combining Views, completed Building Lists and Navigation and Handling User Input
+
 3/29/2020
 - Binary search in Swift
 
