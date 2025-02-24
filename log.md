@@ -1,3 +1,7 @@
+2/23/2025
+I'm back! After a couple of years of React Native and some React work, I'm brushing up on SwiftUI. To get started, I'm looking at Day 15 of Hacking With Swift's 100 Days of SwiftUI. It's a review: Learn essential Swift in one hour. https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour
+
+
 Need to finish:
 - challenge day 34 (when correct button is tapped, the other 2 should fade to 25%. apply an animation for when wrong button is tapped)
 - Day 35 (created project but still need to do almost all of the work)
