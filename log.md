@@ -1,3 +1,9 @@
+2/24/2025
+- Hacking with Swift:
+    - Revisited 100 Days of SwiftUI day 16
+    - Test Yourself: Complex types
+- Parallel work on a potential reading tracking app 
+
 2/23/2025
 I'm back! After a couple of years of React Native and some React work, I'm brushing up on SwiftUI. To get started, I'm looking at Day 15 of Hacking With Swift's 100 Days of SwiftUI. It's a review: Learn essential Swift in one hour. https://www.hackingwithswift.com/articles/242/learn-essential-swift-in-one-hour
 - Resolved GitHub issues from this old project
