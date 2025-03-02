@@ -1,5 +1,11 @@
 3/1/2025
 - Hacking with Swift:
+    - Revisiting 100 Days of SwiftUI: day 18
+    - Test Yourself: Second three from Operators and conditions (Comparison operators, Conditions, Combining conditions)
+
+
+3/1/2025
+- Hacking with Swift:
     - Revisiting 100 Days of SwiftUI day 17
     - Test Yourself: First three from Operators and conditions (Arithmetic operators, Operator overloading, Compound assignment operators)
 
