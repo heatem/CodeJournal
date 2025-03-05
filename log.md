@@ -1,3 +1,6 @@
+3/4/2025
+- Finished quick, simple website to launch with GitHub pages
+
 3/1/2025
 - Hacking with Swift:
     - Revisiting 100 Days of SwiftUI: day 18
