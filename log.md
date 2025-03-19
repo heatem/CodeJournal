@@ -1,3 +1,18 @@
+Next up:
+- resume https://structy.net at section 1 : pair sum
+
+3/19
+- Hacking with Swift - Revisiting 100 Days of SwiftUI: day 20 (I did 19 at some point but did not track it)
+- Structy - Section 1: hashing welcome, anagrams, & most frequent char
+
+3/18/2025
+- Structy - finished Section 0
+
+
+3/17/2025
+- Structy - Section 0 through big-o basics
+- Added unit tests to project from Hacking With SwiftUI day 19 (building a unit converting app)
+
 3/11/2025
 - reviewed canConcat challenge on Structy
 
