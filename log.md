@@ -1,7 +1,17 @@
 Next up:
-- resume https://structy.net at section 1 : pair sum
+- resume https://structy.net at section 3
 
-3/19
+3/22/2025
+- Hacking with Swift: Revisiting 100 Days of SwiftUI: day 21 & 22
+- Structy: finished free items in section 2 Beginner Recursion
+
+3/21/2025
+- Structy: finished free items in section 1 Hashing
+
+3/20/2025
+- Worked on Structy section 1: pair sum and pair product
+
+3/19/2025
 - Hacking with Swift - Revisiting 100 Days of SwiftUI: day 20 (I did 19 at some point but did not track it)
 - Structy - Section 1: hashing welcome, anagrams, & most frequent char
 
