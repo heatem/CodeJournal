@@ -1,5 +1,15 @@
 Next up:
-- resume https://structy.net at section 3
+- resume https://structy.net at section 3: linked list find
+
+3/25/2025
+- Hacking with Swift:
+    - Reviewed some of 23 I was having trouble following last night
+    - Day 24
+    -
+- Structy: finished first 5 free items in section 3: linked list I
+
+3/24/2025
+- Hacking with Swift: day 23
 
 3/22/2025
 - Hacking with Swift: Revisiting 100 Days of SwiftUI: day 21 & 22
