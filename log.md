@@ -1,11 +1,14 @@
 Next up:
 - resume https://structy.net at section 3: linked list find
 
+3/26/2025
+- Hacking with Swift: Day 25
+
 3/25/2025
 - Hacking with Swift:
     - Reviewed some of 23 I was having trouble following last night
     - Day 24
-    -
+    - Started day 25
 - Structy: finished first 5 free items in section 3: linked list I
 
 3/24/2025
