@@ -1,18 +1,35 @@
 Next up:
-- resume https://structy.net at section 3: linked list find
+- resume https://structy.net at section 3 - REPEAT THE CHALLENGES HERE BEFORE MOVING ON
+- Hacking with Swift: 100 Days of SwiftUI - Day 30
+
+3/31/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 28 & Day 29
+
+3/30/2025
+- Structy: section 3: linked list I (get node value, reverse list, zipper-lists) - first attempts. Need to repeat to solidify knowledge
+
+3/29/2025
+- Travel day: day trip to 757ColorCoded's Get Hired event
+
+3/28/2025
+- Structy: section 3: linked list I - linked list find
+- Hacking with Swift: 100 Days of SwiftUI - Day 27
+
+3/27/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 26
 
 3/26/2025
-- Hacking with Swift: Day 25
+- Hacking with Swift: 100 Days of SwiftUI - Day 25
 
 3/25/2025
-- Hacking with Swift:
-    - Reviewed some of 23 I was having trouble following last night
+- Hacking with Swift: 100 Days of SwiftUI
+    - Reviewed some of day 23 I was having trouble following last night
     - Day 24
     - Started day 25
 - Structy: finished first 5 free items in section 3: linked list I
 
 3/24/2025
-- Hacking with Swift: day 23
+- Hacking with Swift: 100 Days of SwiftUI - day 23
 
 3/22/2025
 - Hacking with Swift: Revisiting 100 Days of SwiftUI: day 21 & 22
