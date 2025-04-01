@@ -4,6 +4,7 @@ Next up:
 
 3/31/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 28 & Day 29
+- Structy: Reviewed linked-list-values in JS and Swift
 
 3/30/2025
 - Structy: section 3: linked list I (get node value, reverse list, zipper-lists) - first attempts. Need to repeat to solidify knowledge
