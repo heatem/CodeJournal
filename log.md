@@ -1,5 +1,8 @@
 Next up:
 - resume https://structy.net at section 3 - REPEAT THE CHALLENGES HERE BEFORE MOVING ON
+- Hacking with Swift: 100 Days of SwiftUI - Day 33
+
+4/3/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 32
 
 4/2/2025
