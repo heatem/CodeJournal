@@ -1,9 +1,15 @@
 Next up:
-- resume https://structy.net at section 3 - REPEAT THE CHALLENGES HERE BEFORE MOVING ON
-- Hacking with Swift: 100 Days of SwiftUI - Day 33
+- resume https://structy.net at section 3 - REPEAT THE CHALLENGES HERE BEFORE MOVING ON https://structy.net/problems/reverse-list
+- Hacking with Swift: 100 Days of SwiftUI - Day 34 challenges
+
+4/5/2025
+- Hacking with Swift:
+    - 100 Days of SwiftUI - Day 33
+    - Day 34 review 
 
 4/3/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 32
+- Structy: Reviewed linked-list-find and get-node-value in JS and Swift
 
 4/2/2025
 - Structy: Reviewed sum-list in JS and Swift
