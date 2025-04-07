@@ -1,6 +1,9 @@
 Next up:
 - resume https://structy.net at section 3 - REPEAT THE CHALLENGES HERE BEFORE MOVING ON https://structy.net/problems/reverse-list
-- Hacking with Swift: 100 Days of SwiftUI - Day 34 challenges
+- Hacking with Swift: 100 Days of SwiftUI - Day 35 challenges
+
+4/7/2025
+- Hacking with Swift: 100 Days of SwiftUI - Finished Day 34 - challenges
 
 4/5/2025
 - Hacking with Swift:
