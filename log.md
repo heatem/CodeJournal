@@ -1,7 +1,11 @@
 Next up:
 - resume https://structy.net at section 4 - https://structy.net/problems/binary-tree-welcome
 - REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
-- Hacking with Swift: 100 Days of SwiftUI - Day 37
+- Hacking with Swift: 100 Days of SwiftUI - Day 38
+
+4/14/2025
+- I started an app to track which coffee shops I've visited in Richmond
+- Hacking with Swift: 100 Days of SwiftUI - finished Day 37 
 
 4/13/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 36, started Day 37
