@@ -1,6 +1,38 @@
 Next up:
-- resume https://structy.net at section 3 - REPEAT THE CHALLENGES HERE BEFORE MOVING ON https://structy.net/problems/reverse-list
-- Hacking with Swift: 100 Days of SwiftUI - Day 35 challenges
+- resume https://structy.net at section 4 - https://structy.net/problems/binary-tree-welcome
+- REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
+- Hacking with Swift: 100 Days of SwiftUI - Day 37
+
+4/13/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 36, started Day 37
+
+4/10/2025
+- Structy: Reviewed reverse-list and zipper-lists in JS and Swift. I should revisit zipper lists again soon
+- Hacking with Swift: 100 Days of SwiftUI 
+    - Day 35 cont
+        - Refined settings screen, started game screen
+        - Regarding the questions: I created a struct for the questions and decided to generate them all at the start of the game. I have my settings screen down. I want to navigate to a second view for the game. But I also want to look at day 36
+    - Started day 36
+
+
+4/8/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 35
+    - The challenge for today is to build an edutainment game that tests multiplication skills. It needs to have the following elements:
+        - An option for the number(s) to use - For this, I'm thinking buttons for the numbers 1-12. Tapping the button adds the number to an array of numbers to use. I'm using 1-12 because that was standard when I was in school but further refinements could include additional numbers
+        - An option for the number of questions - I think a stepper for this
+        - A button to start the game
+        - A label that displays the question
+        - A textfield to enter the answer
+        - A label for the score
+        - Some way to restart the game at the end
+    - Initial considerations:
+        - How to generate and maybe store questions? I like the idea of showing the user the questions they got right/wrong at the so they know where to practice more. I could store an array of questions before the game starts, or generate them as we go. For now I may just generate the question in place and change the score as the MVP.
+        - I like the idea of buttons for the numbers to test so the user can pick 1 or more options. Cons: This might be unweildy and it limits the options. In the future, I'd add an option to manually enter other numbers.
+        - For the number of questions, I'll use a stepper starting at 10, stepping by 1.
+        - I want the settings screen to be a separate view so the game screen is as clean and focused as possible.
+        - The game screen should have a clearly visible question.
+        - For the answer, I'll use textfield with the number pad. Alternately, I could use buttons to make it multiple choice but I will implement the number pad first to reduce the chance of lucky guesses, incorporate another element for my practice, and to see if I'm happy with how that looks.
+        - What feedback should I give when the user gets an answer correct? The score will change at the very least, but I should incorporate animations
 
 4/7/2025
 - Hacking with Swift: 100 Days of SwiftUI - Finished Day 34 - challenges
