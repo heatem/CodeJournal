@@ -1,7 +1,10 @@
 Next up:
 - resume https://structy.net at section 4 - https://structy.net/problems/binary-tree-welcome
 - REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
-- Hacking with Swift: 100 Days of SwiftUI - Day 39
+- Hacking with Swift: 100 Days of SwiftUI - Day 40
+
+4/16/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 39 - what a useful day! Images, lists, links... many things I need for my app plans.
 
 4/15/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 38
