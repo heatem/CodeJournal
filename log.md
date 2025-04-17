@@ -1,10 +1,12 @@
 Next up:
-- resume https://structy.net at section 4 - https://structy.net/problems/binary-tree-welcome
+- Structy: resume https://structy.net at section 4 - depth first values
 - REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - Hacking with Swift: 100 Days of SwiftUI - Day 40
 
 4/16/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 39 - what a useful day! Images, lists, links... many things I need for my app plans.
+- RVACoffeeList: Linked detail view to list view
+- Structy: Started section 4 - binary tree I (first 3 sections, resume at "depth first values") 
 
 4/15/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 38
