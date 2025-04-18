@@ -1,7 +1,14 @@
 Next up:
-- Structy: resume https://structy.net at section 4 - depth first values
+- Structy: resume https://structy.net at section 4 - https://structy.net/problems/tree-sum
 - REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
-- Hacking with Swift: 100 Days of SwiftUI - Day 40
+- Hacking with Swift: 100 Days of SwiftUI - Day 41
+
+4/18/2025
+- Hacking with Swift: 100 Days of SwiftUI - finished Day 40
+
+4/17/2025
+- Structy: Section 4 - binary tree I, depth first values & breadth first values exercises
+- Hacking with Swift: 100 Days of SwiftUI - Day 40 (started) 
 
 4/16/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 39 - what a useful day! Images, lists, links... many things I need for my app plans.
