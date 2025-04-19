@@ -1,6 +1,9 @@
 Next up:
 - Structy: resume https://structy.net at section 4 - https://structy.net/problems/tree-sum
 - REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
+- Hacking with Swift: 100 Days of SwiftUI - Day 42
+
+4/19/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 41
 
 4/18/2025
