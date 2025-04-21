@@ -1,10 +1,11 @@
 Next up:
-- Structy: resume https://structy.net at section 4 - https://structy.net/problems/tree-sum
+- Structy: resume https://structy.net at section 4 - https://structy.net/problems/max-root-to-leaf-path-sum
 - REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - Hacking with Swift: 100 Days of SwiftUI - Day 42
 
 4/19/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 41
+- Structy: Section 4: tree-sum and tree-min-value
 
 4/18/2025
 - Hacking with Swift: 100 Days of SwiftUI - finished Day 40
