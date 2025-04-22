@@ -1,6 +1,13 @@
 Next up:
-- Structy: resume https://structy.net at section 4 - https://structy.net/problems/max-root-to-leaf-path-sum
-- REVISIT THE zipper-lists CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
+- Structy: resume https://structy.net at section 5 - graph I, 
+- REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
+- REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
+- Hacking with Swift: 100 Days of SwiftUI - Day 43
+
+4/21/2025
+- Structy:
+    - Finished Section 4 - binary tree I, last exercise max-root-to-leaf-path-sum
+    - Started section 5 - graph I, graph-welcome and graph-intro 
 - Hacking with Swift: 100 Days of SwiftUI - Day 42
 
 4/19/2025
