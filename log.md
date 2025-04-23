@@ -2,6 +2,9 @@ Next up:
 - Structy: resume https://structy.net at section 5 - graph I, 
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
+- Hacking with Swift: 100 Days of SwiftUI - Day 44
+
+4/22/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 43
 
 4/21/2025
