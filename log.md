@@ -1,7 +1,18 @@
 Next up:
-- Structy: resume https://structy.net at section 5 - graph I: has-path
+- Structy: resume https://structy.net at section 5 - graph I: revisit has-path and undirected-pat
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
+- Hacking with Swift: 100 Days of SwiftUI - Day 46 challenges
+
+4/26/2025
+- Hacking with Swift: 100 Days of SwiftUI
+    - Day 45
+    - Day 46 Review
+
+4/24/2025
+- Structy: Section 5 - graph I: has-path and undirected-path. Need to revisit for practice!
+
+4/23/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 44
 
 4/22/2025
