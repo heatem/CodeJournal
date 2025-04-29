@@ -1,8 +1,14 @@
 Next up:
-- Structy: resume https://structy.net at section 5 - graph I: revisit undirected-path
+- Structy: resume https://structy.net at section 5 - graph I: connected-components-count
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
 - Hacking with Swift: 100 Days of SwiftUI - Day 47 (Challenge, but also re-read keypoints)
+
+4/29/2025
+- Structy: section 5 - graph I:
+    - revisited undirected-path
+    - nodes-and-edges
+- Started Essential iOS program - Day 1 (video, answered some questions about why I want to improve, and watched a mentoring session recording) 
 
 4/28/2025
 - Structy: section 5 - graph I: revisited has-path
