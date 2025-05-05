@@ -4,6 +4,9 @@ Next up:
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
 - Hacking with Swift: 100 Days of SwiftUI - Day 47 (Challenge, but also re-read keypoints)
 
+5/4/2025
+- I haven't been updating this but I have been working on the Hacking with SwiftUI day 47 challenge and TDD 
+
 4/29/2025
 - Structy: section 5 - graph I:
     - revisited undirected-path
