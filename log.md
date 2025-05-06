@@ -1,8 +1,12 @@
 Next up:
-- Structy: resume https://structy.net at section 5 - graph I: connected-components-count
+- Structy: resume https://structy.net at section 5 - graph I: largest-component
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
-- Hacking with Swift: 100 Days of SwiftUI - Day 47 (Challenge, but also re-read keypoints)
+- Hacking with Swift: 100 Days of SwiftUI - Day 48
+
+5/5/2025
+- Structy: section 5 - graph I: connected-components-count
+- Hacking with Swift: 100 Days of SwiftUI Day 47 challenge - confirmed I've done the minimum. Will continue to work on it but moving on to day 48 tomorrow
 
 5/4/2025
 - I haven't been updating this but I have been working on the Hacking with SwiftUI day 47 challenge and TDD 
