@@ -1,9 +1,17 @@
 Next up:
-- Structy: resume https://structy.net at section 5 - graph I: largest-component - revisit this or the one before
+- Structy: resume https://structy.net at section 5 - graph I: review the challenges
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
-- Hacking with Swift: 100 Days of SwiftUI - Day 48
+- Hacking with Swift: 100 Days of SwiftUI - Day 50
 - Udemy: https://risesmart.udemy.com/course/test-driven-development-in-ios-using-swift/learn/lecture/28764824#overview
+
+5/9/2025
+- Structy: section 5 - graph I: finished section (shortest-path, island-count, minimum-island)
+
+5/7/2025
+- Structy: section 5 - graph I: finished slow-and-steady, revisited connected-components-count
+- Hacking with Swift: 100 Days of SwiftUI Day 49 
+- Udemy: Test Driven Development in iOS Using Swift - section 3 lesson 11
 
 5/6/2025
 - Structy: section 5 - graph I: largest-component
