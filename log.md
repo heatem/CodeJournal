@@ -2,8 +2,19 @@ Next up:
 - Structy: resume https://structy.net at section 5 - graph I: review the challenges
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
-- Hacking with Swift: 100 Days of SwiftUI - Day 51
-- Udemy: resume at section 4 https://risesmart.udemy.com/course/test-driven-development-in-ios-using-swift/learn/lecture/28764824#overview
+- Udemy: resume at section 6 https://risesmart.udemy.com/course/test-driven-development-in-ios-using-swift/learn/lecture/28764824#overview
+
+Other things in progress:
+- React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
+
+
+5/17/2025
+- I looked at an article about GitHub Actions because I am missing a 757ColorCoded meetup that covered it. After reviewing some freeCodeCamp resources, I decided I do not need to pursue the $99 certification. It was helpful to read through the explanation and look at my current Actions set up for hmason.dev. https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/
+- Reviewed and completed through section 10 here: https://nextjs.org/learn/react-foundations/server-and-client-components
+
+5/16/2025
+- Udemy: Test Driven Development in iOS Using Swift - section 5
+- Hacking with Swift: 100 Days of SwiftUI - started day 51  
 
 5/14/2025
 - Udemy: Test Driven Development in iOS Using Swift - finished section 4
