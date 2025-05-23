@@ -7,6 +7,13 @@ Next up:
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
 
+5/23/2025
+
+5/22/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 53
+
+5/21/2025
+- Hacking with Swift: 100 Days of SwiftUI - finished day 52 
 
 5/17/2025
 - I looked at an article about GitHub Actions because I am missing a 757ColorCoded meetup that covered it. After reviewing some freeCodeCamp resources, I decided I do not need to pursue the $99 certification. It was helpful to read through the explanation and look at my current Actions set up for hmason.dev. https://www.freecodecamp.org/news/learn-to-use-github-actions-step-by-step-guide/
