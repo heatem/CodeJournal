@@ -7,6 +7,9 @@ Next up:
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
 
+5/28/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 55
+
 5/27/2025
 - Chat with C about app
 - Hacking with Swift: 100 Days of SwiftUI - Day 54
