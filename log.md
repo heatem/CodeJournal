@@ -1,5 +1,5 @@
 Next up:
-- Hacking with Swift: 100 Days of SwiftUI - Day 57
+- Hacking with Swift: 100 Days of SwiftUI - Day 58: https://www.hackingwithswift.com/100/swiftui/58
 - Structy: resume https://structy.net at section 5 - graph I: review the challenges
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
@@ -7,6 +7,12 @@ Next up:
 
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
+
+6/17/2025
+- Leetcode challenges - add-two-numbers
+
+6/16/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 57 
 
 5/30/2025
 - Hacking with Swift: 100 Days of SwiftUI - Day 56
