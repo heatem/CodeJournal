@@ -8,6 +8,13 @@ Next up:
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
 
+7/1/2025
+- 
+
+6/30/2025
+- Daily coding challenge problem 1 and a problem from an example email
+- CW project
+
 6/17/2025
 - Leetcode challenges - add-two-numbers
 
