@@ -9,7 +9,8 @@ Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
 
 7/1/2025
-- 
+- App work
+- Daily coding challenge email problem 2 
 
 6/30/2025
 - Daily coding challenge problem 1 and a problem from an example email
