@@ -8,7 +8,12 @@ Next up:
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
 
+7/8/2025
+- Leetcode: longest-substring-without-repeating-characters
+- Hacking with Swift: 100 Days of SwiftUI - Day 59
+
 7/7/2025
+- Leetcode
 
 7/6/2025
 - App work
