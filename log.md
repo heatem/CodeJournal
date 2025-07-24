@@ -1,5 +1,5 @@
 Next up:
-- Hacking with Swift: 100 Days of SwiftUI - Day 59: https://www.hackingwithswift.com/100/swiftui/59
+- Hacking with Swift: 100 Days of SwiftUI - Day 60: https://www.hackingwithswift.com/100/swiftui/60
 - Structy: resume https://structy.net at section 5 - graph I: review the challenges
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
@@ -7,6 +7,21 @@ Next up:
 
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
+
+
+
+7/17/2025
+- Leetcode review
+
+7/16/2025
+- Leetcode: longest-palindromic-substring
+
+7/15/2025
+- Leetcode: reviewed a previous problem and started longest-palindromic-substring
+
+7/10/2025
+- Leetcode: median-of-two-sorted-arrays
+- Hacking with Swift: 100 Days of SwiftUI - Day 60 - topics 1 and 2 of 3
 
 7/8/2025
 - Leetcode: longest-substring-without-repeating-characters
