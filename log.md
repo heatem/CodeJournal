@@ -10,6 +10,15 @@ Other things in progress:
 
 
 
+8/4
+- iACC app refactor along with the Essential Developer iOS Architect Crash Course video
+
+7/31/2025
+- Finished watching the Essential Developer iOS Architect Crash Course second lecture
+
+7/30/2025
+- Started watching the Essential Developer iOS Architect Crash Course second lecture
+
 7/17/2025
 - Leetcode review
 
