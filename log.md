@@ -8,9 +8,18 @@ Next up:
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
 
+8/19/2025
+- Reviewed Structy problems in Swift
+- Hacking with Swift: 100 Days of SwiftUI - Day 61
 
+8/18/2025
+- Finished Hacking with Swift: 100 Days of SwiftUI - Day 60
+- Reviewed Structy problems in Swift 
 
-8/4
+8/11/2025
+- Reviewed Structy problems
+
+8/4/2025
 - iACC app refactor along with the Essential Developer iOS Architect Crash Course video
 
 7/31/2025
