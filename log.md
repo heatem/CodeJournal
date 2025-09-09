@@ -1,5 +1,5 @@
 Next up:
-- Hacking with Swift: 100 Days of SwiftUI - Day 64: https://www.hackingwithswift.com/100/swiftui/64
+- Hacking with Swift: 100 Days of SwiftUI - Day 65: https://www.hackingwithswift.com/100/swiftui/65
 - Structy: resume https://structy.net at section 5 - graph I: review the challenges
 - REVISIT THE zipper-lists (section 3) CHALLENGE, it's a doozy https://structy.net/problems/zipper-lists
 - REVISIT THE max-root-to-leaf-path-sum (section 4) CHALLENGE: https://structy.net/problems/max-root-to-leaf-path-sum
@@ -8,8 +8,11 @@ Next up:
 Other things in progress:
 - React Foundations: https://nextjs.org/learn/react-foundations/server-and-client-components (resume at section 11)
 
+9/9/2025
+- Hacking with Swift: 100 Days of SwiftUI - Day 64 (adding photos from library, sharing content, requesting review)
+
 8/29/2025
-- Hacking with Swift: 100 Days of SwiftUI - Day 63 (Images - Core Image, filters) 
+- Hacking with Swift: 100 Days of SwiftUI - Day 63 (Images - Core Image, filters)
 
 8/28/2025
 - Started Replit vibe coding course
